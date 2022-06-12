@@ -25,8 +25,4 @@ I am 18 years old student in Turkey. I am sharing the codes I wrote in my own wa
 <div align="center"><p>‏‏‏‏‏‏‏‏   </p></div>
 
 <div align="center"> <h1>Github Stats 📈</h1></div>
-
-<div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unqownme&theme=dark&show_icons=true&locale=en&layout=compact" alt="unqownme"/>
-</div>
-<div align="center"><img align="right" src="https://github-readme-stats.vercel.app/api?username=unqownme&theme=dark&show_icons=true&locale=en" alt="unqownme"></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=unqownme&theme=dark&show_icons=true&locale=en" alt="unqownme"></div>
