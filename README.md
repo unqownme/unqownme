@@ -11,7 +11,7 @@ I am 18 years old student in Turkey. I am sharing the codes I wrote in my own wa
 <a href="https://github.com/unqownme" target="_blank"><img src="https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 <div align="center"><p>‏‏‏‏‏‏‏‏   </p></div>
-<div align="center"><img alt="Discord Presence" align="center" src= "https://lanyard-profile-readme.vercel.app/api/983087451822227476?theme=light&bg=8279A6&borderRadius=60px&hideBadges=false&animated=true)"></div>
+<div align="center"><img alt="Discord Presence" align="center" src= "https://lanyard-profile-readme.vercel.app/api/983087451822227476?theme=light&bg=c0c4ca&borderRadius=35px&hideBadges=false&animated=true)"></div>
 <div align="center"><p>‏‏‏‏‏‏‏‏   </p></div>
 
 <div align="center"> <h1>Languages I Use And Learn 💻</h1></div>
